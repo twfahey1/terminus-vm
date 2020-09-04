@@ -1,4 +1,6 @@
 {
+    "name": "tylerfahey/terminus-vm",
+    "description": "A development environment for terminus",
     "require": {
         "pantheon-systems/terminus": "^2.3"
     }

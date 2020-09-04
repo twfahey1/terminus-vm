@@ -3,10 +3,14 @@
 This is a preconfigured setup to do terminus dev.
 
 ## Prerequisites
+- Docker (https://docker.com)
 - Docksal (https://docksal.io)
 
 ## Getting started
 - Clone the repo anywhere on your system
+- If you need Docker + Docksal, there are scripts to install in /scripts folder
+  - ./install-docker.sh
+  - ./install-docksal.sh
 - Run a `composer install` to install terminus deps
 - Run a `fin up` and it should initialize everything, you'll see links to the IDE:
 ```

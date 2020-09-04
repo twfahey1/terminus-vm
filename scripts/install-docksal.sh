@@ -1,0 +1,1 @@
+DOCKER_NATIVE=1 bash <(curl -fsSL https://get.docksal.io)
